@@ -1,0 +1,269 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Segoe UI";
+}
+.logo img {
+  height: 60px;
+  width: 204px;
+  gap: 80px;
+}
+div ul li {
+  list-style: none;
+  padding: 20px;
+  justify-content: center;
+}
+ul {
+  display: flex;
+}
+nav {
+  padding-top: 12px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.main {
+  text-align: center;
+  font-size: 45px;
+}
+.main p {
+  padding-top: 90px;
+}
+.main p img {
+  padding: 0px 20px;
+}
+.main1 > p {
+  font-size: 24px;
+  text-align: center;
+  margin-top: 40px;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+.download {
+  text-align: center;
+  padding: 70px;
+}
+.download a {
+  font-size: 14px;
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
+  border: solid #00b6d1;
+  width: auto;
+  height: auto;
+  background-color: #00b6d1;
+  padding: 12px 24px;
+  border-radius: 7px;
+}
+.UE img {
+  display: flex;
+  width: 60px;
+  height: auto;
+  margin-top: -20px;
+  margin-left: 300px;
+  margin-right: 20px;
+  padding-top: 20px;
+}
+.UE {
+  display: inline-flex;
+}
+.UE p {
+  font-size: 25px;
+}
+.UE small {
+  padding: 12px;
+}
+.containers-1 {
+  display: inline-flex;
+  margin-left: 320px;
+  margin-right: 200px;
+  margin-top: 64px;
+  text-align: center;
+}
+.containers-2 {
+  display: inline-flex;
+  margin-left: 320px;
+  margin-right: 200px;
+  margin-top: 24px;
+  text-align: center;
+}
+.containers-3 {
+  display: inline-flex;
+  margin-left: 320px;
+  margin-right: 200px;
+  margin-top: 24px;
+  text-align: center;
+}
+.containers-4 {
+  display: inline-flex;
+  margin-left: 320px;
+  margin-right: 200px;
+  margin-top: 24px;
+  text-align: center;
+}
+
+
+.green {
+  padding: 6px;
+  background-color: green;
+  border-radius: 7px;
+  border: solid green;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  height: 10px;
+}
+.blue {
+  height: 10px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  padding: 6px;
+  border-radius: 7px;
+  background-color: #00b6d1;
+  border: solid #00b6d1;
+}
+/* this is for seprate container  */
+.containers1 span a {
+  font-size: 12px;
+  color: white;
+  text-decoration: none;
+  text-align: center;
+}
+.containers2 span a {
+  color: white;
+  text-align: center;
+  font-size: 12px;
+  text-decoration: none;
+}
+.containers3 span a {
+  color: white;
+  text-align: center;
+  font-size: 12px;
+  text-decoration: none;
+}
+.containers4 span a {
+  color: white;
+  text-align: center;
+  font-size: 12px;
+  text-decoration: none;
+}
+.containers5 span a {
+  color: white;
+  text-align: center;
+  font-size: 12px;
+  text-decoration: none;
+}
+.containers6 span a {
+  color: white;
+  text-align: center;
+  font-size: 12px;
+  text-decoration: none;
+}
+.containers7 span a {
+  color: white;
+  text-align: center;
+  font-size: 12px;
+  text-decoration: none;
+}
+.containers8 span a {
+  color: white;
+  color: white;
+  text-align: center;
+  font-size: 12px;
+  text-decoration: none;
+}
+.containers9 span a {
+  text-align: center;
+  color: white;
+  color: white;
+  font-size: 12px;
+  text-decoration: none;
+}
+.containers10 span a {
+  text-align: center;
+  color: white;
+  font-size: 12px;
+  text-decoration: none;
+}
+
+/* this is for 1 div that i have make  */
+.containers1 {
+  margin: 0px 28px 0px 0px;
+  background-color: #f9f9f9;
+  width: 288px;
+  padding-top: 24px;
+  padding-bottom: 30px;
+}
+.containers2 {
+  margin: 0px 28px 0px 0px;
+  background-color: #f9f9f9;
+  width: 288px;
+  padding-top: 24px;
+  padding-bottom: 30px;
+}
+.containers3 {
+  margin: 0px 28px 0px 0px;
+  background-color: #f9f9f9;
+  width: 288px;
+  padding-top: 24px;
+  padding-bottom: 30px;
+}
+.containers4 {
+  margin: 0px 28px 0px 0px;
+  background-color: #f9f9f9;
+  width: 288px;
+  padding-top: 24px;
+  padding-bottom: 30px;
+}
+.containers5 {
+  margin: 0px 28px 0px 0px;
+  background-color: #f9f9f9;
+  width: 288px;
+  padding-top: 24px;
+  padding-bottom: 30px;
+}
+.containers6 {
+  margin: 0px 28px 0px 0px;
+  background-color: #f9f9f9;
+  width: 288px;
+  padding-top: 24px;
+  padding-bottom: 30px;
+}
+.containers7 {
+  background-color: #f9f9f9;
+  margin: 0px 28px 0px 0px;
+  width: 288px;
+  padding-top: 24px;
+  padding-bottom: 30px;
+}
+.containers8 {
+  background-color: #f9f9f9;
+  margin: 0px 28px 0px 0px;
+  width: 288px;
+  padding-top: 24px;
+  padding-bottom: 30px;
+}
+.containers9 {
+  background-color: #f9f9f9;
+  width: 288px;
+  margin: 0px 28px 0px 0px;
+  padding-top: 24px;
+  padding-bottom: 30px;
+}
+.containers10 {
+  background-color: #f9f9f9;
+  width: 288px;
+  padding-top: 24px;
+  margin: 0px 28px 0px 0px;
+  padding-bottom: 30px;
+}
+/* this is for heading of language */
+.containers1 h3 {
+  padding-bottom: 80px;
+}
+
+/* for subheading */
+.small{
+  padding-bottom: 60px;
+}
